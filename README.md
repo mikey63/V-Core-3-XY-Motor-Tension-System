@@ -19,3 +19,4 @@ The idea is to remove the weight of the tensioning hardware off of the printer c
  Assembly is straight-forward.  Please consult the video for a quick demonstration.
 
 https://youtu.be/ckKcj1EBtPA
+[![Watch the video](https://img.youtube.com/vi/ckKcj1EBtPA/default.jpg)](https://youtu.be/ckKcj1EBtPA)
