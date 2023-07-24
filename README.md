@@ -17,4 +17,5 @@ The idea is to remove the weight of the tensioning hardware off of the printer c
      -  (8) M3 nuts.
  
  Assembly is straight-forward.  Please consult the video for a quick demonstration.
+
 https://youtu.be/ckKcj1EBtPA
