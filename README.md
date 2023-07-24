@@ -7,7 +7,8 @@ This is a mod for Ratrig V-Core 3 printers that uses the Left and Right XY stepp
 
 The idea is to remove the weight of the tensioning hardware off of the printer carriage.  I have made a new back for the standard EVA 3 carriage.  Personally, I'm using a different carriage based on the VZ-Bot design, which I will post in it's own repository.
 
-1.  The DXF file for the new mounting plates are included in the repository.  You will need to have these made by a shop that does metal laser cutting.  
+1.  The DXF file for the new mounting plates are included in the repository.  You will need to have these made by a shop that does metal laser cutting.  I've used SendCutSend for these parts (located in the USA), and prices were very reasonable.  For EU viewers, try Laserboost (Spain).  I've used them for laster cut parts as well.
+ 
 2.  the tension forks and knobs require the use of additional M3 hardware:
 
      -  (8) M3x12mm socket head screws for the tension forks
